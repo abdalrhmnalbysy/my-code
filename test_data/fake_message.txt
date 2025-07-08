@@ -1,0 +1,10 @@
+From: IT Security Department
+To: All Employees
+Subject: Mandatory Password Change
+
+Dear Team,
+
+Please change your system password before the end of the day. This is part of our quarterly security policy.
+
+Best regards,
+Security Operations Center (SOC)

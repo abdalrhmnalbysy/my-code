@@ -1,0 +1,17 @@
+{
+    "customer": {
+        "name": "Sarah Ali",
+        "email": "sarah.ali@example.com",
+        "phone": "+966-500-123456"
+    },
+    "payment": {
+        "card_number": "4242 4242 4242 4242",
+        "cvv": "321",
+        "expiry": "11/27",
+        "amount": "299.99"
+    },
+    "login": {
+        "username": "sarah.ali",
+        "password": "FakeP@ssw0rd!"
+    }
+}
